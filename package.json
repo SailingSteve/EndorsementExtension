@@ -30,5 +30,8 @@
   "pre-commit": [
     "test",
     "lint"
-  ]
+  ],
+  "dependencies": {
+    "material-icons": "^0.3.1"
+  }
 }
